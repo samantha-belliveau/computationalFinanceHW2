@@ -1,0 +1,15 @@
+Instructions for running the programs:
+
+To run the program that will output the price of the American Put Options:
+- put file with inputs in the same directory as AmericanPutOp.java
+- navigate to the directory where AmericanPutOp.java is
+- javac AmericanPutOp.java
+- java AmericanPutOp [inputFileName]
+
+To run the program that will output the price of the Asian Call Options:
+- put file with inputs in the same directory as AsianCallOp.java
+- navigate to the directory where AsianCallOp.java is
+- javac AsianCallOp.java
+- java AsianCallOp [inputFileName]
+
+

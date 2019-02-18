@@ -1,0 +1,12 @@
+For American Put Options:
+a) Time taken for t = 10 : 23.189 ms
+b) Time taken for t = 500 : 44 ms
+c) Time complexity T(n) = O(n^2)
+
+For Asian Call Options:
+a) Time taken for t = 10 : 24.32995 ms
+b) Time taken for t = 24 : 6533.28929 ms
+(estimated time for t = 500 : 1.2747 * 10^147)
+c) Time complexity T(n) = O(2^n)
+
+
